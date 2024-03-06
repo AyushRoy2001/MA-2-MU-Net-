@@ -14,6 +14,7 @@ This is the official implementation  of "MA$^2$MU-Net++: A Mahalanobis Distance 
 ![Activation Map](https://github.com/AyushRoy2001/MA-2-MU-Net-/assets/94052139/faf5c4de-ce98-4861-9be5-aa98329c1e2d)
 
 ### TNBC
+![heatmap](https://github.com/AyushRoy2001/MA-2-MU-Net-/assets/94052139/0b1fbbe3-a856-4c5a-8145-871ff8bd3e87)
 
 ### MoNuSeG
 ![heatmap](https://github.com/AyushRoy2001/MA-2-MU-Net-/assets/94052139/edc09396-9864-4c06-9dd6-e990f7b03e03)
