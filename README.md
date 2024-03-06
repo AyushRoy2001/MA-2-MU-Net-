@@ -21,7 +21,7 @@ This is the official implementation  of "MA$^2$MU-Net++: A Mahalanobis Distance 
 
 ## Authors :nerd_face:*
 Surya Majumder<br/>
-Ayush Roy
+Ayush Roy<br/>
 Ram Sarkar<br/>
 Dmitrii Kaplun<br/>
 
