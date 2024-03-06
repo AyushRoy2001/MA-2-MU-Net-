@@ -1,4 +1,4 @@
-# MA$^2$MU-Net++
+# MA<sup>^2</sup>MU-Net++
 This is the official implementation  of "MA$^2$MU-Net++: A Mahalanobis Distance and Ackley Function based Multi-Modal U-Net++ Model for Breast Nuclei Segmentation in Histopathology Images" 
 
 ### Overall workflow:
