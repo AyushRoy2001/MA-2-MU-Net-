@@ -19,13 +19,13 @@ This is the official implementation  of "MA<sup>2</sup>MU-Net++: A Mahalanobis D
 ### MoNuSeG
 ![heatmap](https://github.com/AyushRoy2001/MA-2-MU-Net-/assets/94052139/edc09396-9864-4c06-9dd6-e990f7b03e03)
 
-## Authors :nerd_face:*
+## Authors:
 Surya Majumder<br/>
 Ayush Roy<br/>
 Ram Sarkar<br/>
 Dmitrii Kaplun<br/>
 
-## Citation :thinking:*
+## Citation:
 Please do cite our paper in case you find it useful for your research.<br/>
 Citation-<br/>
 
